@@ -1,6 +1,6 @@
 #include <iostream>
 #include <memory>
-
+//电子
 /*抽象电脑类*/
 class Computer {
     public:
